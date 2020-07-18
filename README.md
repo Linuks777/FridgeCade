@@ -1,2 +1,2 @@
 # FridgeCade
-A fork of the FightCade client with added features.
+Archived for now, will possibly be ressurected as a serious remake soon.
